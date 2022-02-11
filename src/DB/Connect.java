@@ -45,6 +45,7 @@ public class Connect {
 				System.out.println("\n\t"+movieName+"  \tStarring: "+actorName+" and "+actressName+"  \treleased in year "+year+"  directed by "+directorName);
 			
 		}
+		System.out.println("For now, those are my top three favourite movies. I have a really good taste in movies!");
 	
 	}
 
