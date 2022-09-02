@@ -39,7 +39,7 @@ public class Connect {
 			String actressName=result.getString("Actress");
 			int year=result.getInt("ReleaseYear");
 			String directorName=result.getString("Director");
-			if(movieName.equals("Mersal"))
+			if(movieName.equals("thiruchitrambalam"))
 				System.out.println("\n\t"+movieName+"  \t\tStarring: "+actorName+" and "+actressName+"  \treleased in year "+year+"  directed by "+directorName);
 			else	
 				System.out.println("\n\t"+movieName+"  \tStarring: "+actorName+" and "+actressName+"  \treleased in year "+year+"  directed by "+directorName);
